@@ -1,12 +1,14 @@
-- 👋 Hi, I’m Ananya
-- 👀 I’m interested in technology, innovation and skill building
-- 🌱 I’m currently learning React and Node
-- 💞️ I’m looking to collaborate on meaningful projects
-- 📫 How to reach me an13nya@gmail.com
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I love reading books and watching TV series and shows
 
-<!---
-An13nyaP/An13nyaP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 👋 Hi, I'm Ananya
+
+### About Me
+- **Tech Stack:** React, Node.js, Docker (because who doesn't love containers), Python (just because).
+- Currently diving deep into **full-stack development**. Progress is happening... sometimes.
+- Always on the lookout for **projects** that challenge my limits and, preferably, my patience.
+
+### Reach Me
+- 📧 [an13nya@gmail.com](mailto:an13nya@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/an13nya)  
+
+### Fun Fact
+- I have a collection of unread books, but still buy more. It's a hobby.
