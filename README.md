@@ -12,4 +12,3 @@
 
 ### Fun Fact
 - I have a collection of unread books, but still buy more. It's a hobby.
-![Ananya's GitHub stats](https://github-readme-stats.vercel.app/api?username=An13nyaP&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
