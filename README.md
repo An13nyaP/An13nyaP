@@ -12,3 +12,6 @@
 
 ### Fun Fact
 - I have a collection of unread books, but still buy more. It's a hobby.
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=An13nyaP&layout=compact&langs_count=6&theme=radical)
